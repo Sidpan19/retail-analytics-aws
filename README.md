@@ -316,7 +316,7 @@ https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 ## 🔗 Additional Resources
 
-- **Full Project Report:** [View PDF](docs/projec_report.pdf)
+- **Full Project Report:** [View PDF](docs/project_report.pdf)
 - **Power BI Dashboard:** [Download .pbix](https://drive.google.com/file/d/1KF3S7Xy0qlM-uMY9rnP_5KwRXbgw_k0q/view?usp=sharing)
 - **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1m9lbA3doBeAkluqEgM88n3W_NJ8CEv33/view?usp=sharing)
 
